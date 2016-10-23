@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "866481116111",
+    "firebase_url": "https://cathay-pacific-e439a.firebaseio.com",
+    "project_id": "cathay-pacific-e439a",
+    "storage_bucket": "cathay-pacific-e439a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866481116111:android:b804dbd15062bd7b",
+        "android_client_info": {
+          "package_name": "com.example.bobby.cathy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866481116111-u3rt831hd12p8581prq7jn8f732ttdds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA57hRQj73CAvDTftaNOJcoipnk5eV035k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

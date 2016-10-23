@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.2_6c457cfcf9a80dde340e5640d649897165efb63a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f59114f2b1adc1d87523bdec20af5ea53785bc88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_d1fcbabe16713c04440d217a3dc2b7be8725482d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_b1f18184cc530915760f4cc493954bcdd0cb6d1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.1.1_6e8e384ceaa94a28c4cac0b95388557eb9aa531a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.0.0_1f7084d8685fb8f6ca375e523ba558d15b1dd9cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8e1e76e2fa08f67325837620051eff6d5e6ff21b">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_97139379aac5621aba64afa275300e7e5b0b65d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d0c964e4cc1263d1a6d6876ff201fe37e3d04cb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_6f73406f9ac51049e6343ca268bd20bc647cfc2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.0.2_db959f6cde0c2335dad77819390f866b6712c291/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_3e3537432fe0cad21a8a9b3b74c4d20dc62ac4ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.0.2_2c9b6891188e4aa679018eaaadb2330b1e7e91af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.2_965d841859cb37854dd3a3abe13d6e9570ded21b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_847bcf16b1c9e4ea241e4a10d38738774c8db850/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="984f038e0189703a77311ac03be16a060364c9cf">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_07bf0a598a6fbfbd0deb3ee5feb9c906a15c1067/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_6710b29e6f5b781e82e6c21fe697347832ffcd1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.0.2_3dc7eadb5e27d7704428e6cd8f00372953dd3520/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_b3580ddba1b05a13b97936e30092ec3637b85e22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.2_6e9267bdec90e94d1ef9fb339fefb0f21222df24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_65166f2d89573b3682b57182e0b441fd7b4a2b33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.2_e0b71dd613fdaa365ef91a219eed4a8828f4a7ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9a52ff27e45df5d30c672f801134a4abf9a0496c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_293d5cfb8db80e5fb5887b919102d67744e633c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6d40c12373b3d97490083c9ac013c932b5f6541b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.2_d86420f9c7bf0ff9dd69ef3f6e05b9e228de40bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.0.0_280be638d822f62dce96969b8aecc40d84782135/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_7946dcec24127382fdfd838b8980fdf2fce4e642/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.2_8e9f10fcce28b09bb2025226f4b2473f60a02599/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_bb15d9325678d09bf93a87ba197d53c8793a863c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.0.2_c3f8cc20fac20ba6c6292417dbdb75899ea19bda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.0.0_364eb623cfc0d014b9a201589fecd08802dbda91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.2_f354e128f431283d3ed606429e3a0e50b32b6c79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.0.0_0d2e5f85aae3d5637e7c40dfa38d7debcd1e6474/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.0.2_e9c0c91a204d3b228cd18ed5db001389939b1ad3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samsonwong/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_3c1468e17bbe8003b355b6c8a71df8c0d46e2ed1/classes.dex" />
+    </item>
+
+</items>

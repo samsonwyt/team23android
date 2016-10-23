@@ -1,0 +1,7 @@
+#Sun Oct 23 10:44:51 HKT 2016
+base.0=/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_97139379aac5621aba64afa275300e7e5b0b65d4
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_07bf0a598a6fbfbd0deb3ee5feb9c906a15c1067/classes.dex
+base.1=/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_07bf0a598a6fbfbd0deb3ee5feb9c906a15c1067
+file.0=/Users/samsonwong/Downloads/Cathy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_97139379aac5621aba64afa275300e7e5b0b65d4/classes.dex
